@@ -10,7 +10,7 @@ description: 李昶昕的博客 Web开发者
 # baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
-github_username:  Gaohaoyang
+github_username:  mnichangxin
 permalink: /:year/:month/:day/:title/
 
 # Build settings
