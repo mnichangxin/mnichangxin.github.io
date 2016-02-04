@@ -7,12 +7,12 @@ categories: github
 * content
 {:toc}
 
-##前言
+## 前言
 经常写博客是一件满足的事，一直没有找到合适的博客平台，要么太臃肿，或者太简陋。之前我曾经在新浪云上搭建过一个[博客](http://mnichangxin.sinaapp.com),功能各方面做的太渣，暂时告一段落。最近看到有人在github上做这件事，于是搜集了各方面的资料，费了几天的时间，弄出来一个简约的[博客](http://mnichangxin.github.io)。
 
 ---
 
-##关于github-page
+## 关于github-page
 >   [github-page](https://pages.github.com/)
 >   是一个免费的静态网站托管平台，由github提供，它具有以下特点：
 >
@@ -21,22 +21,21 @@ categories: github
 >   3. 支持页面生成，可以使用`jekyll`来布局页面，使用`markdown`来书写正文
 >   4. 可以自定义域名
 
-###项目主页
+### 项目主页
 为项目提供一个展示功能的网站，主要供宣传。网站目录需要是项目仓库的`gh-pages`分支，而且还提供了众多的模版，但可定制性不高。
 
-###个人主页
-
+### 个人主页
 每个账号只能有一个仓库存放个人主页，仓库名称是约定俗成的`username.github.io` ，
 搭建完毕后可以用`http://username.github.io`访问，当然可以自定义域名，后面会讲到。整个网站目录存放在仓库的`master`分支下。
 
 ---
 
-##关于jekyll
+## 关于jekyll
 我们搭建的博客只是静态页面，如果写博客势必会写大量的标签。但是，`jekyll`出现了，而且github页面支持`jekyll`解析，这样就减少了工作量。`jekyll`安装需要`Ruby`环境，后面大量工作都是围绕这个展开。
 
 ---
 
-##搭建过程
+## 搭建过程
 
 主要是本地化的一些配置，搭建在Windows下进行。
 
@@ -85,7 +84,7 @@ categories: github
 
 ---
 
-##后记
+## 后记
 
 * 使用模版
 
@@ -101,7 +100,7 @@ categories: github
 
 ---
 
-##参考资料
+## 参考资料
 
 * [一步步在github上创建博客](http://www.pchou.info/web-build/2014/07/04/build-github-blog-page-08.html)
 * [jekyll官方文档](http://jekyll.bootcss.com/docs/home/)
