@@ -39,7 +39,7 @@ icon: glyphicon-heart
 
 #### 友情链接
 
-* [Sevenskev's 365](http://sevenskey.sinaapp.com/365/index.html)
+* [Sevenskey's 365](http://sevenskey.sinaapp.com/365/index.html)
 
 ---
 
