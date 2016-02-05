@@ -39,6 +39,10 @@ icon: glyphicon-heart
 
 #### 友情链接
 
+* [Sevenskev's 365](http://sevenskey.sinaapp.com/365/index.html)
+
+---
+
 有需要添加友链的可以在下方评论区说明一下 
 
 ---
