@@ -7,12 +7,12 @@ categories: layout
 * content
 {:toc}
 
-##前言
+## 前言
 话说双飞翼布局始于淘宝UED，就找来资料研究了一番，其实原理很简单。圣杯布局的来历是A list part上的一篇[文章](http://alistapart.com/article/holygrail)，另外双飞翼布局是对圣杯布局的一个改进吧。
 
 ---
 
-##圣杯布局
+## 圣杯布局
 
 实现的目的就是让左右两栏固定，中间一栏自适应。
 
@@ -108,7 +108,7 @@ categories: layout
 
 ---
 
-##双飞翼布局
+## 双飞翼布局
 
 我们在其实在第一步就把sub列和extra列定宽固定好了，只是由于遮挡住了main列才进行的代码改进。现在试想能不能只对main列代码进行一点改动，而不去动sub列和extra列的代码?
 
@@ -138,8 +138,9 @@ categories: layout
 
 ---
 
-###参考资料
+### 参考资料
 
 * [双飞翼布局介绍-始于淘宝UED](http://www.imooc.com/wenda/detail/254035)
 * [CSS布局之---淘宝双飞翼布局](http://www.cnblogs.com/langzs/archive/2013/01/27/taobaoshuangfeiyi.html)
 * [射雕双飞翼布局的几个补充布局](http://www.css88.com/archives/1370)
+
