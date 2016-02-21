@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "圣杯布局和双飞翼布局"
-categories: layout
+categories: CSS
 ---
 
 * content
