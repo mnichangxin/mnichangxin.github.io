@@ -40,7 +40,7 @@ icon: glyphicon-heart
 #### 友情链接
 
 * [Sevenskey's 365](http://sevenskey.sinaapp.com/365/index.html)
-
+* [HyG](http://gaohaoyang.github.io/)
 ---
 
 有需要添加友链的可以在下方评论区说明一下 
