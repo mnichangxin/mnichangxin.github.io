@@ -30,26 +30,26 @@ categories: CSS
 
 结构层代码如下：
 
-    .head,.foot{
+    .head,.foot {
         min-height: 50px;
         line-height: 50px;
         background: #5E5E5E;
         text-align: center;            
     }
-    .main{
+    .main {
         float: left;
         width: 100%;
         min-height: 50px;
         background:#ED1C24;
     }
-    .sub{
+    .sub {
         float: left;
         width: 150px;
         min-height: 50px;
         margin-left: -100%;
         background: #3F48CC;
     }
-    .extra{
+    .extra {
         float: left;
         width: 150px;
         min-height: 50px;
@@ -81,7 +81,7 @@ categories: CSS
 
 这里又出现一个问题，sub列和extra列紧跟着收缩了，于是继续改进:
 
-    .sub{
+    .sub {
         float: left;
         width: 150px;
         min-height: 50px;
@@ -90,7 +90,7 @@ categories: CSS
         position: relative;
         left: -150px;
     }
-    .extra{
+    .extra {
         float: left;
         width: 150px;
         min-height: 50px;
@@ -122,7 +122,7 @@ categories: CSS
 
 **给包裹层设置左右外边距**
 
-    .main-wrap{
+    .main-wrap {
         margin: 0 150px 0 150px;
      }
 
