@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "jekyll静态博客搭建"
-categories: github
+categories: GitHub
 ---
 
 * content
