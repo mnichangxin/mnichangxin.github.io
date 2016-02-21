@@ -289,4 +289,6 @@ HTML 4 为`<script>`标签定义了一个扩展属性：`defer`。`Defer` 属性
 
 通过以上策略，可以在很大程度上提高那些需要使用大量 JavaScript 的 Web 网站和应用的实际性能。
 
+---
+
 **[转载于: JavaScript 的性能优化：加载和执行](http://www.ibm.com/developerworks/cn/web/1308_caiys_jsload/index.html#ibm-pcon)**
