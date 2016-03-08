@@ -15,10 +15,10 @@ categories: GitHub
 
     默认情况下，公共密钥的文件名是下列之一:
 
-    > id_dsa.pub
-    > id_ecdsa.pub
-    > id_ed25519.pub
-    > id_rsa.pub
+    * id_dsa.pub
+    * id_ecdsa.pub
+    * id_ed25519.pub
+    * id_rsa.pub
 
     如果你没有一个现有的公共和私有密钥对，或不想使用任何可用连接到GitHub，请到第二步生成一个新的SSH密钥；否则到第三步。
 
