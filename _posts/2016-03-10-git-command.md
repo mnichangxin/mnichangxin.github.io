@@ -59,9 +59,9 @@ categories: Git
 ## 参考资料
 
 * [廖雪峰的Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-* [Git基本操作](http://www.runoob.com/$ git/$ git-basic-operations.html)
-* [Git简明指南](http://www.runoob.com/manual/$ git-guide/)
-* [Git完整命令手册](http://$ git-scm.com/docs)
+* [Git基本操作](http://www.runoob.com/git/git-basic-operations.html)
+* [Git简明指南](http://www.runoob.com/manual/git-guide/)
+* [Git完整命令手册](http://git-scm.com/docs)
 
 
 
