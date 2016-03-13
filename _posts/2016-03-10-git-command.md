@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Git常用操作命令"
+title: "Git常用操作命令(随时更新)"
 categories: Git
 ---
 
@@ -53,7 +53,7 @@ categories: Git
 * 建立远程仓库与本地的联系：```$ git branch --set-upstream=origin/<branch> branch```
 * 拉取远程最新提交：```$ git fetch```
 * 拉取远程最新提交并合并：```$ git pull```
-
+* 删除远程分支：```$ git push origin :<branch>```
 ---
 
 ## 参考资料
