@@ -50,7 +50,7 @@ categories: Git
 * 克隆远程仓库：```$ git clone origin```
 * 推送到远程仓库：```$ git push origin branch```
 * 在本地创建和远程分支对应的分支：```$ git checkout -b branch origin/branch```
-* 建立远程仓库与本地的联系：```$ git branch -set-upstream <name>` origin/<name>``
+* 建立远程仓库与本地的联系：```$ git branch --set-upstream=origin/<branch> branch```
 * 拉取远程最新提交：```$ git fetch```
 * 拉取远程最新提交并合并：```$ git pull```
 
