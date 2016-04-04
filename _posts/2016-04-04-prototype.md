@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JS原型和原型链"
+title: "JS原型链"
 categories: JavaScript
 ---
 
