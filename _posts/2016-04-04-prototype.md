@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JS原型"
+title: "JS原型和原型链"
 categories: JavaScript
 ---
 
@@ -126,11 +126,11 @@ categories: JavaScript
 
 `__proto__`是几乎所有对象所具有的属性，除了`null`和`undefined`,而`prototype`只能是**函数对象**所具有的。
 
-以上代码的具体情况可以看我画的这张图(来源于[鸟哥的博客](http://www.laruence.com/2010/05/13/1462.html)，我稍微改造了一下):[](http://7xr2ek.com1.z0.glb.clouddn.com/blog/image/prototype.png)
+以上代码的具体情况可以看我画的这张图(来源于[鸟哥的博客](http://www.laruence.com/2010/05/13/1462.html)，我稍微改造了一下):![](http://7xr2ek.com1.z0.glb.clouddn.com/blog/image/prototype.png)
 
 看了这张图，多画几遍，相信就豁然开朗了！
 
-##参考资料
+## 参考资料
 
 * [图解JavaScript原型链](http://blog.rainy.im/2015/07/20/prototype-chain-in-js/)
 * [理解JavaScript的原型链和继承](https://blog.oyanglul.us/javascript/understand-prototype.html)
