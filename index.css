@@ -1,7 +1,7 @@
 @charset utf8;
 
 /* reset */
-html,body, ul, li, a {
+html, body, ul, li, a {
 	margin: 0;
 	padding: 0;
 	font: 10px 'Microsoft YaHei';
@@ -24,7 +24,6 @@ a {
 	position: relative;
 	height: 100%;
 	width: 100%;
-	min-width: 1200px;
 	background: #272822;
 }
 .content {
