@@ -10,7 +10,6 @@ html,body, ul, li, a {
 html, body {
 	height: 100%;
 	width: 100%;
-    min-width: 1200px;
 }
 li {
 	list-style: none;
@@ -25,6 +24,7 @@ a {
 	position: relative;
 	height: 100%;
 	width: 100%;
+	min-width: 1200px;
 	background: #272822;
 }
 .content {
