@@ -20,3 +20,10 @@
 .icon-twitter:before { content: "\e603"; }
 .icon-github-copy:before { content: "\e605"; }
 .icon-blog:before { content: "\e604"; }
+
+/* for mobile */
+@media (max-width: 480px) {
+  .iconfont {
+    font-size: 40px;
+  }
+}

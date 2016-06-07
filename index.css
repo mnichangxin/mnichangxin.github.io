@@ -9,8 +9,7 @@ html, body, ul, li, a {
 }
 html, body {
 	height: 100%;
-	width: 100%;
-	background: #272822;
+	min-width: 720px;
 }
 li {
 	list-style: none;
@@ -24,8 +23,6 @@ a {
 .container {
 	position: relative;
 	height: 100%;
-	width: 100%;
-	min-width: 700px;
 	background: #272822;
 }
 .content {
@@ -54,17 +51,6 @@ a {
 	line-height: 100px;
 }
 
-/* animation */
-.content a:hover {
-	animation: ro .5s linear;
-	background: #2e281b;
-}
-@keyframes ro {
-	100% {
-		transform: rotate(360deg);
-	}
-}
-
 .about {
 	position: absolute;
 	top: 50%;
@@ -83,4 +69,55 @@ a {
 }
 .about-content:hover {
 	color: #b2ad7b;
+}
+
+/* Animation */
+.content a:hover {
+	-webkit-animation: ro .3s linear;
+			animation: ro .3s linear;
+	             background: #2e281b;
+}
+@-webkit-keyframes ro {
+	100% {
+		-webkit-transform: rotate(360deg);
+		        transform: rotate(360deg);
+	}
+}
+@keyframes ro {
+	100% {
+		-webkit-transform: rotate(360deg);
+		        transform: rotate(360deg);
+	}
+}
+
+/* For mobile */
+@media (max-width: 480px) {
+	html, body {
+		min-width: 370px;
+	}
+	.content {
+		margin-top: -31px;
+		margin-left: -182.5px;
+		height: 62px;
+		width: 365px;
+	}
+	.content a {
+		margin-left: 10px;
+		height: 60px;
+		width: 60px;
+	}
+	.iconfont {
+		line-height: 60px;
+	}
+	.about {
+		margin-top: 51px;
+		margin-left: -182.5px;
+		height: 31px;
+		width: 365px;
+	}
+}
+@media (max-width: 365px) {
+	html,body {
+		background: #272822;
+	}
 }
