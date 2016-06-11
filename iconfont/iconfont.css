@@ -1,10 +1,10 @@
 
 @font-face {font-family: "iconfont";
-  src: url('iconfont.eot?t=1460787855'); /* IE9*/
-  src: url('iconfont.eot?t=1460787855#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url('iconfont.woff?t=1460787855') format('woff'), /* chrome, firefox */
-  url('iconfont.ttf?t=1460787855') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('iconfont.svg?t=1460787855#iconfont') format('svg'); /* iOS 4.1- */
+  src: url('iconfont.eot?t=1465659440'); /* IE9*/
+  src: url('iconfont.eot?t=1465659440#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('iconfont.woff?t=1465659440') format('woff'), /* chrome, firefox */
+  url('iconfont.ttf?t=1465659440') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1465659440#iconfont') format('svg'); /* iOS 4.1- */
 }
 
 .iconfont {
@@ -15,9 +15,9 @@
   -webkit-text-stroke-width: 0.2px;
   -moz-osx-font-smoothing: grayscale;
 }
+.icon-bi:before { content: "\e606"; }
 .icon-lab:before { content: "\e600"; }
 .icon-weibo:before { content: "\e602"; }
-.icon-twitter:before { content: "\e603"; }
 .icon-github-copy:before { content: "\e605"; }
 .icon-blog:before { content: "\e604"; }
 
