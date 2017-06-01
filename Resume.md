@@ -94,7 +94,7 @@
 
 - 前端语言：熟练并能运用和HTML，CSS，JavaScript进行前端代码实现，熟悉最新的ES6
 
-- 后端语言：熟悉Java，Python，Node.js，Linux和Shell
+- 后端语言：熟悉Java，了解Python，Node.js，Linux和Shell
 
 - 前端框架：能熟练运用Jquery，Ajax等技术，接触过React
 
